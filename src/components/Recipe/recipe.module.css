@@ -1,0 +1,48 @@
+.recipe {
+    border-radius: 10px;
+    padding: 14px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #FFF;
+    align-items: center;
+    width: 40%;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.image {
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    padding:10px
+}
+
+.redirect {
+    background: #FFD194;
+    color: #4d4d4d;
+    padding: 10px 40px;
+    transition: all 0.3s;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.redirect:hover {
+    background: #f46b45;
+    color: #FFF;
+}
+
+@media (max-width: 1110px) {
+    .recipe {
+        min-width: 30%;
+        justify-content: space-between;
+    }
+
+    .flex h1 {
+        font-size: 1rem;
+    }
+}
