@@ -10,7 +10,7 @@ const App = () => {
 
   const [recipes, setRecipes] = useState([]);
   const [search, setSearch] = useState('');
-  const [query, setQuery] = useState('')
+  const [query, setQuery] = useState('');
 
   useEffect(() => {
     const getRecipes = async () => {
@@ -52,16 +52,16 @@ const App = () => {
         </button>
       </form>
       <div className="recipes">
-        {recipes.map(recipe => (
-          <Recipe 
-            kay={ recipe.recipe.label }
-            title={ recipe.recipe.label }
-            calories={ recipe.recipe.calories }
-            image={ recipe.recipe.image }
-            ingredients={ recipe.recipe.ingredients }
-            link={ recipe.recipe.url }
-          />
-        ))}
+        { recipes.map(recipe => (
+            <Recipe 
+              key={ recipe.recipe.label }
+              title={ recipe.recipe.label }
+              calories={ recipe.recipe.calories }
+              image={ recipe.recipe.image }
+              ingredients={ recipe.recipe.ingredients }
+              link={ recipe.recipe.url }
+            />
+          ))}
       </div>
       <p className="credits">developed by <a 
           target="_blank" 
