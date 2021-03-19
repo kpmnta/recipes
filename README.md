@@ -1,7 +1,6 @@
-![site working](https://media.tenor.com/images/87a745fef08f58e1d9f6b91c282f57ec/tenor.gif)
+![site working](https://media1.tenor.com/images/7a22799134252fe4d619676ad7d3c647/tenor.gif?itemid=20810618)
 
 Website online: https://findyourrecipe-git-main-kpmnta.vercel.app/
-
 
 ## Find Your Recipe PT-BR
 
@@ -13,7 +12,7 @@ Lembrando de procurar em inglês, porque a API é em inglês.
 
 Foi consumida a API [Edaman](https://www.edamam.com/), que possui um limite de 10 calls por minuto. 
 
-## Available Scripts EN
+## Find Your Recipe EN
 
 With a simple and intuitive design, Find Your Recipe is a React website that helps you find the best recipes for what your are craving the most.
 
