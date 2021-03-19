@@ -1,6 +1,6 @@
-![](https://media.tenor.com/images/87a745fef08f58e1d9f6b91c282f57ec/tenor.gif)
+![site working](https://media.tenor.com/images/87a745fef08f58e1d9f6b91c282f57ec/tenor.gif)
 
-Website online: [https://findyourrecipe-git-main-kpmnta.vercel.app/]https://findyourrecipe-git-main-kpmnta.vercel.app/
+Website online: https://findyourrecipe-git-main-kpmnta.vercel.app/
 
 
 ## Find Your Recipe PT-BR
