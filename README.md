@@ -1,4 +1,4 @@
-![site working](https://media1.tenor.com/images/7a22799134252fe4d619676ad7d3c647/tenor.gif?itemid=20810618)
+![site working](https://media.giphy.com/media/94GugiBSeJqqV9BZ5d/giphy.gif)
 
 Website online: https://findyourrecipe-git-main-kpmnta.vercel.app/
 
